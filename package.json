@@ -1,0 +1,17 @@
+{
+  "name": "@quarterto/chrome-switch-profile",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quarterto/chrome-switch-profile.git"
+  },
+  "keywords": [],
+  "author": "Matt Brennan <matt@153.io> (http://blog.153.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quarterto/chrome-switch-profile/issues"
+  },
+  "homepage": "https://github.com/quarterto/chrome-switch-profile#readme"
+}
